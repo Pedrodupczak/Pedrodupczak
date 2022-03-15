@@ -6,7 +6,7 @@
   <a href="https://github.com/Pedrodupczak">
   <img height="180em" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=Pedrodupczak&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrodupczak&theme=react" />
-  <img height="180em" width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LFernandoMB&theme=react" />
+  <img height="180em" width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrodupczak&theme=react" />
 </div>
 
 <div  align="center">  
