@@ -39,5 +39,4 @@
 
  
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Pedrodupczak&repo=Pedrodupczak&theme=react)](https://github.com/LFernandoMB/LFernandoMB)
-![Captura de tela 2022-03-15 180115](https://user-images.githubusercontent.com/101671506/158472381-ed76b51d-b05f-4065-ae7f-32a1173e921d.png)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Pedrodupczak&repo=Pedrodupczak&theme=react)](https://github.com/Pedrodupczak/Pedrodupczak)
