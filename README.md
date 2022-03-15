@@ -22,7 +22,7 @@
 <div  align="center"> 
     <div style="display: inline_block"><br>
     <br><a href="https://www.instagram.com/Pedro_icb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-    <a href="linkedin.com/in/pedro-dupczak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/pedro-dupczak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitee" target="_blank"></a> 
 </div>
  
