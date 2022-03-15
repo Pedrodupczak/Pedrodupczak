@@ -30,7 +30,7 @@
  
   ## 
   
- <h1> Some of the tools I use and have used. Simply passionate about technology 🥰 🤖 🧑‍💻 </h1> 
+ <h1> Some of the tools I use and have used. Simply passionate about technology 🤖 🧑‍💻 </h1> 
 
 
   
