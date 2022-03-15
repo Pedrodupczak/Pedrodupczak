@@ -32,12 +32,12 @@
   
  <h1> Some of the tools I use and have used. Simply passionate about technology 🥰 🤖 🧑‍💻 </h1> 
 
-![banner-01](https://user-images.githubusercontent.com/91624923/150597971-1a7ae1f1-521b-4afd-b15c-33422d924204.jpg)
+
   
  <h1> Here are the people and things I love the most!! helped me get here and help me go further and further! </h1>
 
-![about_04](https://user-images.githubusercontent.com/91624923/150598806-374d7404-d0c3-4cb5-9053-4db69244f805.jpg)  
- 
-![px](https://user-images.githubusercontent.com/91624923/150600135-fa304634-d456-4c87-b151-63f0d6b6e9fa.png)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LFernandoMB&repo=LFernandoMB&theme=react)](https://github.com/LFernandoMB/LFernandoMB)
+ 
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Pedrodupczak&repo=Pedrodupczak&theme=react)](https://github.com/LFernandoMB/LFernandoMB)
+![Captura de tela 2022-03-15 180115](https://user-images.githubusercontent.com/101671506/158472381-ed76b51d-b05f-4065-ae7f-32a1173e921d.png)
