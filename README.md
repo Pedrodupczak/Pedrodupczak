@@ -31,12 +31,8 @@
   ## 
   
 
-ly passionate about technology 🤖 🧑‍💻 </h1> 
+complately passionate about, fast learner and curious about new technology 🤖 🧑‍💻 </h1> 
 
-
-  
- <h1> Here are the person that made everything for me, and the reason for me being who iam! </h1>
-![image](https://user-images.githubusercontent.com/101671506/158502539-f9c1e4e4-5427-4097-9aa6-91bb2bd31e33.png)
 
  
 
