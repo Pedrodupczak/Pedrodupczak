@@ -31,7 +31,7 @@
   ## 
   
 
-complately passionate about, fast learner and curious about new technology 🤖 🧑‍💻 </h1> 
+completely passionate about, fast learner and curious about new technology 🤖 🧑‍💻 </h1> 
 
 
  
